@@ -1,1 +1,1 @@
-const data = "Rama main";
+const prueba = "prueba";

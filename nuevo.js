@@ -1,1 +1,2 @@
-let error = "Error forzado";
+const error = 404;
+
