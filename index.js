@@ -1,1 +1,1 @@
-const data = 1500;
+const data = "Rama main";
